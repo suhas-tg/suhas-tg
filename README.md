@@ -40,8 +40,8 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.suhaz786.vercel.app/api?username=suhaz786&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.suhaz786.vercel.app/api/top-langs/?username=suhaz786&hide=TeX&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats.suhas-tg.vercel.app/api?username=suhas-tg&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.suhas-tg.vercel.app/api/top-langs/?username=suhas-tg&hide=TeX&layout=compact&theme=tokyonight)
 
 
 🔭 **I’m currently working on**  Springboot and nodejs microservices
