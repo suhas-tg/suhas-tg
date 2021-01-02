@@ -46,7 +46,7 @@
 
 🔭 **I’m currently working on**  Springboot and nodejs microservices
 
-🌱 **I’m currently learning** Vue js 
+🌱 **I’m currently learning** ReactJS
 
 📫 **How to reach me**: suhaz786@gmail.com
 
