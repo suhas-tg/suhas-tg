@@ -46,7 +46,7 @@
 
 🔭 **I’m currently working on**  Springboot and nodejs microservices
 
-🌱 **I’m currently learning** ReactJS
+🌱 **I’m currently spending my free time experimenting with ** Blockchain
 
 📫 **How to reach me**: suhaz786@gmail.com
 
